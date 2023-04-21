@@ -5,6 +5,11 @@ is a tool to find as much information as possible on Instagram accounts, such as
 
 This tool is an update from OsintIG on my first account
 
+<details>
+<summary>:zap: Version 1.1.0 :</summary>
+- <strong><a href="https://github.com/Hunxploit04/OsintIG"</a>INSTA-OSINT V1.1.0</strong>
+</details>
+
 ### Note 📍
 to use this tool you have to prepare a `dummy account`, don't use a real account if you don't want it to expire                                             
 do not use for illegal actions because the admin will not be responsible
@@ -51,3 +56,9 @@ python3 instaOSINT.py
 | Higlights   |    ✔️   |
 | ShowFollwrs |    ✔️   |
 | ShowFollwng |    ✔️   |
+
+
+<details>
+<summary>:zap: Author :</summary>
+- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+</details>
