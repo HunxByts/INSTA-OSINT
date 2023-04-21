@@ -31,7 +31,7 @@ pkg install git
 pkg install python3
 ```
 
-### use tool
+### Use Tool
 ```
 git clone https://github.com/HunxByts/INSTA-OSINT.git
 cd INSTA-OSINT
