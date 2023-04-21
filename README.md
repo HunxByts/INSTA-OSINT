@@ -3,7 +3,10 @@ is a tool to find as much information as possible on Instagram accounts, such as
 
 <img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/OSINTIG.png" />
 
-This tool is an update from OsintIG on my first account
+This tool is an update from OsintIG on my first account                                                                                                     
+***DO NOT COPY OR RECODE THIS TOOL WITHOUT PERMISSION!!!***
+<br>
+***DILARANG RECODE TOOL INI  TANPA IZIN DARI ADMINN!!!!***
 
 <details>
 <summary>:zap: Version 1.1.0 :</summary>
