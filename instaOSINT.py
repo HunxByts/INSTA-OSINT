@@ -59,7 +59,7 @@ try:
             IG_INSTA.context.log(f"\n       {Wh}[ {Gr}+ {Wh}] {Gr}Login Success!")
         time.sleep(3)
 
-        user_input = input(f"\n       {Wh}[ {Gr}+ {Wh}] INPUT USERNAME INSTAGRAM : {Re}")
+        user_input = input(f"\n       {Wh}[ {Gr}+ {Wh}] INPUT USERNAME TARGET : {Re}")
         profile = instaloader.Profile.from_username(IG_INSTA.context, user_input)
 
         print(f"\n       {Wh}============================== {Gr}INFORMATION ACCOUNT {Wh}=============================")
