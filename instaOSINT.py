@@ -122,7 +122,7 @@ try:
         print(f"\n       {Wh}[ {Gr}+ {Wh}]{Wh} Show {Gr}target followings : ")
         followees = profile.get_followees()
         for followee in followees:
-            print(f"        {Gr}USERNAME : {Wh}{followee.username} {Gr}| ID : {Wh}{followee.userid}")
+            print(f"      {Gr}USERNAME : {Wh}{followee.username} {Gr}| ID : {Wh}{followee.userid}")
     osintig(US,PW)
 except KeyboardInterrupt:
     print(f" {Wh}[ {Ye}! {Wh}] {Ye}PROGRAM STOPPED...")
