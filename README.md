@@ -42,11 +42,11 @@ python3 instaOSINT.py
 
 ### result insta-osint tool
 
-<img src=" "/>
+<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/1.png"/>
 
-<img src=" "/>
+<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/2.png"/>
 
-<img src=" "/>
+<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/3.png"/>
 
 
 
