@@ -39,6 +39,20 @@ pip3 install -r requirements.txt
 python3 instaOSINT.py
 ```
 
+
+### result insta-osint tool
+
+<img src=" "/>
+
+<img src=" "/>
+
+<img src=" "/>
+
+
+
+
+
+
 ### Feature INSTA-OSINT
 
 |   Featur    |  Status |
