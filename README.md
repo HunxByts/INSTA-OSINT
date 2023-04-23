@@ -40,13 +40,13 @@ python3 instaOSINT.py
 ```
 
 
-### result insta-osint tool
+### Result insta-osint tool
 
-<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/1.png"/>
+<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/1.png" height="500"/>
 
-<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/2.png"/>
+<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/2.png" height="500"/>
 
-<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/3.png"/>
+<img src="https://github.com/HunxByts/INSTA-OSINT/blob/main/asset/3.png" height="500"/>
 
 
 
